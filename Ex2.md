@@ -1,6 +1,5 @@
 # Ex.No:1
 # Ex.Name: Write a CPP Program to insert five double elements in to Stack ADT (use STL for Stack)
-## Date:
 ## Aim:
 To write a C++ program to insert five character elements into Stack ADT using STL.
 
